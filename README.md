@@ -1,2 +1,2 @@
 # sql_files
-Repo to store SQL files
+Repo to store SQL files.
